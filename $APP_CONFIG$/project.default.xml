@@ -1,9 +1,17 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="ECMAScript 6" />
+      </component>
+      <component name="JsBowerSettings">
+        <exe-path>E:\Program Files\nodejs\global_npm\npm\bower.cmd</exe-path>
+        <config-path />
+      </component>
       <component name="NamedScopeManager">
         <order />
       </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -19,8 +27,15 @@
       </component>
       <component name="ProjectRootManager" version="2" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="JavaScriptLanguageLevel" value="ES6" />
+      </component>
+      <component name="TypeScriptCompiler">
+        <option name="isCompilerEnabled" value="true" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
       </component>
     </defaultProject>
   </component>
