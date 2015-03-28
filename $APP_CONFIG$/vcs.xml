@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/delebash/aurelia-interface.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ageektech/ageektech.github.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Development\Html5 Projects\aurelia-interface-master" />
+    <option name="cloneParentDir" value="E:\Development\Ageektech" />
   </component>
 </application>
