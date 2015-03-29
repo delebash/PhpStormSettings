@@ -1,0 +1,8 @@
+<templateSet group="Bootstrap3">
+  <template name="bs3-badge" value="&lt;span class=&quot;badge&quot;&gt;$var1$&lt;/span&gt;$END$" description="Badge" toReformat="false" toShortenFQNames="false">
+    <variable name="var1" expression="&quot;Badge&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
