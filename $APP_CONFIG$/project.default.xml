@@ -49,7 +49,7 @@
       </component>
       <component name="ProjectRootManager" version="2" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+        <property name="settings.editor.selected.configurable" value="coverage" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="JavaScriptLanguageLevel" value="ES6" />
         <property name="last_opened_file_path" value="E:/Program Files (x86)/Ampps/php/php.exe" />
@@ -61,6 +61,21 @@
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
