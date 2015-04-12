@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/aurelia/app-contacts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/delebash/DansIdeas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Development\Dan\Aurelia" />
+    <option name="cloneParentDir" value="E:\Development\Dan" />
   </component>
 </application>
