@@ -1,3 +1,3 @@
 <application>
-  <component name="GfmSettings" githubAccessToken="3fc18dc86d3a8e11066974d32024f74f828a9318" connectionTimeout="2000" socketTimeout="2000" renderingEngine="JX_BROWSER" useOffline="true" replacePreviewTab="true" />
+  <component name="GfmSettings" githubAccessToken="3fc18dc86d3a8e11066974d32024f74f828a9318" connectionTimeout="2000" socketTimeout="2000" renderingEngine="JX_BROWSER" useOffline="true" replacePreviewTab="true" useFullWidthRendering="false" />
 </application>
