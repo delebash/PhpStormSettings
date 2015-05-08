@@ -11,6 +11,12 @@
           <info name="Local" version="2.4.0" />
         </behat_settings>
       </component>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+      </component>
       <component name="ComposerSettings">
         <pharPath>E:\php phars\composer\composer.phar</pharPath>
       </component>
@@ -49,15 +55,16 @@
       </component>
       <component name="ProjectRootManager" version="2" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+        <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="JavaScriptLanguageLevel" value="ES6" />
-        <property name="last_opened_file_path" value="E:/Development/Dan" />
+        <property name="last_opened_file_path" value="E:/Development/Dan/Js Libraries/TypeScript-1.5.0-beta/bin" />
         <property name="HbShouldOpenHtmlAsHb" value="" />
       </component>
       <component name="TypeScriptCompiler">
         <option name="isCompilerEnabled" value="true" />
-        <option name="typeScriptServiceDirectory" value="E:\Development\Dan\Js Libraries\tsc1.5" />
+        <option name="typeScriptServiceDirectory" value="E:\Development\Dan\Js Libraries\TypeScript-1.5.0-beta\bin" />
+        <option name="typeScriptCompilerParams" value="--module commonjs  --target es5" />
         <option name="versionType" value="SERVICE_DIRECTORY" />
       </component>
       <component name="VcsContentAnnotationSettings">
