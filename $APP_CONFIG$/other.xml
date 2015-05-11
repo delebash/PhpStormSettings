@@ -15,7 +15,6 @@
       </profile-state>
     </entry>
   </component>
-  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
   <component name="DBNavigator.Application.Settings">
     <enable-debug-mode value="false" />
     <enable-developer-mode value="false" />
