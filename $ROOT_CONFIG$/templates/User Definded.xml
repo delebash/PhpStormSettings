@@ -1,0 +1,10 @@
+<templateSet group="User Definded">
+  <template name="cmt" value="/*******************&#10;* --$END$&#10;********************/" description="CssHtml comment block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="false" />
+    </context>
+  </template>
+</templateSet>
