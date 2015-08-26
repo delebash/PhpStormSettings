@@ -1,0 +1,208 @@
+Index: safari/build-safari.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- safari/build-safari.sh	(date 1440592756000)
++++ safari/build-safari.sh	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/content/migrate.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome/content/migrate.js	(date 1440592756000)
++++ firefox/scribefire/chrome/content/migrate.js	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome.manifest
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome.manifest	(date 1440592756000)
++++ firefox/scribefire/chrome.manifest	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/content/browser.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome/content/browser.js	(date 1440592756000)
++++ firefox/scribefire/chrome/content/browser.js	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/content/options.xul
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- firefox/scribefire/chrome/content/options.xul	(date 1440592756000)
++++ firefox/scribefire/chrome/content/options.xul	(revision )
+@@ -1,0 +1,0 @@
+Index: opera/build-opera.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- opera/build-opera.sh	(date 1440592756000)
++++ opera/build-opera.sh	(revision )
+@@ -1,0 +1,0 @@
+Index: safari/build-safari-testing.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- safari/build-safari-testing.sh	(date 1440592756000)
++++ safari/build-safari-testing.sh	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/content/content_script.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome/content/content_script.js	(date 1440592756000)
++++ firefox/scribefire/chrome/content/content_script.js	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/skin/desktop/browser.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome/skin/desktop/browser.css	(date 1440592756000)
++++ firefox/scribefire/chrome/skin/desktop/browser.css	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/content/background.xul
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- firefox/scribefire/chrome/content/background.xul	(date 1440592756000)
++++ firefox/scribefire/chrome/content/background.xul	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/skin/desktop/toolbar-button-16x16.svg
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome/skin/desktop/toolbar-button-16x16.svg	(date 1440592756000)
++++ firefox/scribefire/chrome/skin/desktop/toolbar-button-16x16.svg	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/content/overlay-mobile.xul
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- firefox/scribefire/chrome/content/overlay-mobile.xul	(date 1440592756000)
++++ firefox/scribefire/chrome/content/overlay-mobile.xul	(revision )
+@@ -1,0 +1,0 @@
+Index: chrome/build-update-file.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- chrome/build-update-file.sh	(date 1440592756000)
++++ chrome/build-update-file.sh	(revision )
+@@ -1,0 +1,0 @@
+Index: chrome/build-zip.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- chrome/build-zip.sh	(date 1440592756000)
++++ chrome/build-zip.sh	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/build-next-testing.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/build-next-testing.sh	(date 1440592756000)
++++ firefox/build-next-testing.sh	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/skin/desktop/toolbar-button-24x24.svg
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome/skin/desktop/toolbar-button-24x24.svg	(date 1440592756000)
++++ firefox/scribefire/chrome/skin/desktop/toolbar-button-24x24.svg	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/build-next.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/build-next.sh	(date 1440592756000)
++++ firefox/build-next.sh	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/install.rdf
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/install.rdf	(date 1440592756000)
++++ firefox/scribefire/install.rdf	(revision )
+@@ -1,0 +1,0 @@
+Index: safari/build-update-file.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- safari/build-update-file.sh	(date 1440592756000)
++++ safari/build-update-file.sh	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/content/browser-mobile.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome/content/browser-mobile.js	(date 1440592756000)
++++ firefox/scribefire/chrome/content/browser-mobile.js	(revision )
+@@ -1,0 +1,0 @@
+Index: chrome/scribefire/vendor/jquery-ui.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- chrome/scribefire/vendor/jquery-ui.js	(date 1440592756000)
++++ chrome/scribefire/vendor/jquery-ui.js	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/content/io.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome/content/io.js	(date 1440592756000)
++++ firefox/scribefire/chrome/content/io.js	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/skin/mobile/mobile-browser.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- firefox/scribefire/chrome/skin/mobile/mobile-browser.css	(date 1440592756000)
++++ firefox/scribefire/chrome/skin/mobile/mobile-browser.css	(revision )
+@@ -1,0 +1,0 @@
+Index: update-locales-sample.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- update-locales-sample.sh	(date 1440592756000)
++++ update-locales-sample.sh	(revision )
+@@ -1,0 +1,0 @@
+Index: firefox/scribefire/chrome/content/overlay.xul
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- firefox/scribefire/chrome/content/overlay.xul	(date 1440592756000)
++++ firefox/scribefire/chrome/content/overlay.xul	(revision )
+@@ -1,0 +1,0 @@
+Index: opera/build-opera-testing.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- opera/build-opera-testing.sh	(date 1440592756000)
++++ opera/build-opera-testing.sh	(revision )
+@@ -1,0 +1,0 @@
